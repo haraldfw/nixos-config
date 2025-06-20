@@ -56,9 +56,10 @@
   # $ nix search wget
   environment.systemPackages = with pkgs; [
     neovim
+    zsh
     librewolf
-    pkgs.home-manager
-    pkgs.nixd
+    home-manager
+    nixd
     nautilus
     vim
     git

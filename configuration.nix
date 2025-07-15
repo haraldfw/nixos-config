@@ -60,6 +60,8 @@
   # $ nix search wget
   environment.systemPackages = with pkgs; [
     neovim
+    busybox
+    htop
     zsh
     librewolf
     home-manager

@@ -163,6 +163,10 @@
           install_url = "https://addons.mozilla.org/firefox/downloads/latest/indie-wiki-buddy/latest.xpi";
           installation_mode = "force_installed";
         };
+	"sponsorblock@ajay" = {
+	  install_url = "https://addons.mozilla.org/firefox/downloads/latest/sponsorblock/latest.xpi";
+	  installation_mode = "force_installed";
+	};
       };
     };
   };

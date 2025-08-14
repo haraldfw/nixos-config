@@ -78,6 +78,7 @@
     nordzy-cursor-theme
     hyprshot
     gimp
+    dunst
   ];
 
   fonts.packages = with pkgs; [
